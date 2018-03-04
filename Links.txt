@@ -1,0 +1,7 @@
+https://desktop.github.com/  -  GitHub App
+
+https://github.com/mspnp/reference-architectures  - Workload Link
+
+https://aka.ms/InstallAzureCliWindows  - Azure CLI
+
+https://nodejs.org/en/download/  -  Node.JS

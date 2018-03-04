@@ -1,0 +1,10 @@
+NPM packages:
+
+mkdir NPM
+cd NPM
+npm install -g @mspnp/azure-building-blocks
+
+
+Running Workloads:
+
+azbb -s a4df3501-cded-4709-a48b-bc4584f32d7e -g workloads -l SOUTHINDIA -p single-vm-v2.json --deploy
